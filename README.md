@@ -1,3 +1,8 @@
 # HACKCRAFT
 EAGLERCRAFT 1.8.8 HACKED
-### **The download link is ---> [here](https://github.com/MMM-tek/HACKCRAFT/blob/main/EAGLERX.html)** <---
+You can add servers at de list of servers to play.
+### **The download file is ---> [here](https://github.com/MMM-tek/HACKCRAFT/blob/main/EAGLERX.html)** <---
+## To hack:
+To hack and togle to google.com press **t** and **shift**
+##
+The pasword of the zip file is **HACKCRAFT**
